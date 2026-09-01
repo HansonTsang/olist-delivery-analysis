@@ -1,0 +1,10 @@
+customer_state,category_name,reviewed_orders,delayed_low_score_orders,delayed_low_score_rate_pct
+RJ,bed_bath_table,1336,143,10.7
+SP,bed_bath_table,4310,99,2.3
+SP,health_beauty,3686,97,2.63
+RJ,sports_leisure,889,88,9.9
+SP,sports_leisure,3194,79,2.47
+RJ,computers_accessories,824,77,9.34
+RJ,furniture_decor,815,74,9.08
+RJ,watches_gifts,780,73,9.36
+CE,health_beauty,150,19,12.67
