@@ -1,0 +1,6 @@
+delay_group,reviewed_orders,avg_review_score,low_score_orders,low_score_rate_pct
+On time,89182,4.29,8247,9.25
+1-3 days late,1851,3.29,595,32.14
+4-7 days late,1748,2.1,1183,67.68
+8-14 days late,1446,1.67,1159,80.15
+15+ days late,1333,1.72,1044,78.32
