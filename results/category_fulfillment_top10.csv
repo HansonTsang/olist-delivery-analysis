@@ -1,0 +1,11 @@
+category_name,delivered_orders,delayed_orders,delay_rate_pct,avg_delay_days
+bed_bath_table,9267,689,7.43,10.95
+health_beauty,8610,647,7.51,9.82
+sports_leisure,7512,495,6.59,10.77
+furniture_decor,6258,449,7.17,11.1
+computers_accessories,6517,416,6.38,10.33
+watches_gifts,5489,406,7.4,9.78
+housewares,5734,308,5.37,10.58
+telephony,4086,291,7.12,9.24
+auto,3801,278,7.31,12.35
+toys,3781,243,6.43,11.07
